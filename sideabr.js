@@ -22,3 +22,4 @@ function setupSkillBars() {
         o2.style.left = `calc(100% - 11px)`;
     });
 }
+
